@@ -1,0 +1,20 @@
+
+Project Name: Python Calculator
+Deliverables:
+
+Wireframe
+	deadline: 12 / 27 / 13
+Requirements document
+	deadline: 12 / 27 / 13
+Class diagram
+	deadline: 12 / 28 / 13
+
+Testing Sheet
+	deadline: 12 / 28 / 13
+/////////////////////////
+Prototype
+	deadline: 12 / 30 / 13
+/////////////////////////
+Beta Program
+	deadline: 1 / 1 / 14 
+
