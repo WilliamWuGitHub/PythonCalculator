@@ -5,7 +5,7 @@ from tkinter import ttk
 def n1(*args):
     try:
         display == 1
-        
+        ttk.Button.configure(window, bg ="red")
     except ValueError:
         pass
 def n2(*args):
