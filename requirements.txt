@@ -19,6 +19,9 @@ Operations
 	
 Gui	
 
+0. Interface
+	The interface will be a single window with controls to allow user to interact with the program.
+
 1. Display
 
 	1.1 IO textfield
